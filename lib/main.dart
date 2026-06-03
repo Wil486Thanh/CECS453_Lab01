@@ -1,4 +1,5 @@
 // Forked from teammate James Glendinning
+// Large credit to James for most of the below code.
 
 import 'package:flutter/material.dart';
 
